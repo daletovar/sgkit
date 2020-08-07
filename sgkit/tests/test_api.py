@@ -1,4 +1,5 @@
 import numpy as np
+import msprime
 from numpy.testing import assert_array_equal
 
 from sgkit import (
